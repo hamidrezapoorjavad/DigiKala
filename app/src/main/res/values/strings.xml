@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DigiKala</string>
+    <string name="hamid_reza">Hamid Reza</string>
+    <string name="ali_reza">Ali Reza</string>
+    <string name="kourosh">kourosh</string>
+    <string name="kiarash">kiarash</string>
+    <string name="info_digikala_com">info @ digiKala.com</string>
+    <string name="contact_digika">تماس با دیجس کالا</string>
+    <string name="bye_bye">Bye Bye</string>
+    <string name="hamid">hamid</string>
+    <string name="hello">Hello</string>
+    <string name="info_digikala2">INFO@DIGIKALA.COM</string>
+    <string name="info_digikala_com3">info@digikala.com</string>
+    <string name="contact_digi">تماس با دیجی کالا</string>
+    <string name="report_digi">گزارش مشکلات اپلیکیشین</string>
+    <string name="cindition_digi">شرایط استفاده</string>
+    <string name="law_1">کلیه حقوق نزد دیجی کالا محفظ است</string>
+    <string name="harim">حریم خصوصی</string>
+    <string name="_1_9_3">نسخه1.9.3</string>
+    <string name="digi">دیجی کالا</string>
+    <string name="todo">TODO</string>
+</resources>
